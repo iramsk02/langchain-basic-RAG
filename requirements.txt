@@ -1,0 +1,7 @@
+langchain
+langchain_community 
+pypdf
+ipykernel
+langchain-text-splitters
+langchain-ollama
+faiss-cpu
